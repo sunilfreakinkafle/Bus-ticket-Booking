@@ -1,0 +1,8 @@
+.demo a{ float:left; margin:0; padding:0; margin:5px 10px 10px 5px!important; margin:5px 10px 10px 5px; display:block; border:none;}
+.demo a:hover{ border:none;}
+.demo a img{ margin:0; padding:0; border-radius:5px; border:2px solid #cbacdd;}
+ul,li,dl,dt,dd{
+	list-style-type:none;
+	margin:0;
+	padding:0;
+}
